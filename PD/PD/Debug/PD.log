@@ -1,0 +1,132 @@
+﻿生成启动时间为 2018/11/3 20:49:08。
+     1>项目“D:\PanelDectection\codes\PD\PD\PD.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt final.cpp
+         final.cpp
+     1>d:\paneldectection\codes\pd\pd\final.cpp(91): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(111): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(143): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(150): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(173): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(178): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(181): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(183): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(186): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(294): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>d:\paneldectection\codes\pd\pd\final.cpp(469): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(471): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(475): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(477): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(490): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(505): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(531): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(535): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(561): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(578): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(585): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(589): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(610): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(632): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(662): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(683): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(764): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(810): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(817): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(820): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(822): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(834): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(837): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(839): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(851): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(860): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(862): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(872): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(880): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(882): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(894): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(902): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(903): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(908): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(910): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(918): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(929): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(932): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(943): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(944): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(945): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(946): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(951): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(952): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(953): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(954): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(971): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(975): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(977): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(978): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(992): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(995): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1003): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1004): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1008): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1011): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1038): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1059): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1096): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1098): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1108): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1116): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1118): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1129): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1136): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1138): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1144): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1190): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1193): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1194): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1199): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1200): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1204): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1205): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1207): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1208): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1215): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1217): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1218): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1225): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1228): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1229): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1233): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1234): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1247): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1248): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1249): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1250): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1277): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1281): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1291): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1291): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1304): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1306): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1308): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1310): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1316): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1331): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1344): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1348): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1356): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(1364): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\paneldectection\codes\pd\pd\final.cpp(508): warning C4172: 返回局部变量或临时变量的地址: result
+     1>d:\paneldectection\codes\pd\pd\final.cpp(523): warning C4172: 返回局部变量或临时变量的地址: result
+     1>d:\paneldectection\codes\pd\pd\final.cpp(575): warning C4715: “extension”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PanelDectection\codes\PD\Debug\PD.exe" /INCREMENTAL /NOLOGO opencv_world340d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\PanelDectection\codes\PD\Debug\PD.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PanelDectection\codes\PD\Debug\PD.lib" /MACHINE:X86 Debug\final.obj
+     1>opencv_world340d.lib(opencv_world340d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
+     1>已完成生成项目“D:\PanelDectection\codes\PD\PD\PD.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.33
